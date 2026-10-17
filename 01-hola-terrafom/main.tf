@@ -28,3 +28,4 @@ resource "local_file" "script" {
   filename = "${path.module}/output/run.sh"
   file_permission = "0755"
 }
+
