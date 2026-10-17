@@ -1,2 +1,2 @@
-#!bin/bash
-echo Terraform!
+#!/bin/bash
+echo Terraform
